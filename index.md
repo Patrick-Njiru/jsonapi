@@ -1,1 +1,1 @@
-### empty
+theme: slate
